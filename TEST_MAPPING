@@ -14,7 +14,7 @@
       "path": "frameworks/base/packages/Tethering"
     },
     {
-      "path": "frameworks/opt/net/wifi"
+      "path": "packages/modules/Wifi/framework"
     }
   ]
 }
